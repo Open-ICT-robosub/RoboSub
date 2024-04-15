@@ -1,3 +1,6 @@
 [submodule "Examples"]
 	path = Examples
 	url = https://github.com/Open-ICT-robosub/Examples.git
+[submodule "Docs"]
+	path = Docs
+	url = https://github.com/Open-ICT-robosub/Documentation.git
